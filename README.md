@@ -1,6 +1,6 @@
 # Recipes-Tracker
 
-<img src="./website-prerview/recipes-01.jpg" alt="Contacts-app" border="0" width="100%">
+<img src="./website-preview/recipes-01.jpg" alt="Contacts-app" border="0" width="100%">
 
 </br>
 </br>
@@ -32,5 +32,5 @@ Realized catalog page and **designed the logic** to allow the user to **filter t
 </br>
 </br>
 
-<img src="./website-prerview/recipes-02.jpg" alt="Contacts-app" border="0" width="100%">
+<img src="./website-preview/recipes-02.jpg" alt="Contacts-app" border="0" width="100%">
 
